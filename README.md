@@ -266,4 +266,6 @@ I engineer systems where the hard part is invisible: idempotent consumers that r
 
 </div>
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7aa2f7,55:24283b,100:1a1b26" width="100%"/>
