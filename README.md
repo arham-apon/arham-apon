@@ -146,7 +146,7 @@ I engineer systems where the hard part is invisible: idempotent consumers that r
 - **Next.js wallet & auth UIs** wired through an API Gateway for live balance and ledger updates.
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-24283b?style=flat-square&logo=vercel&logoColor=7dcfff"/></a>
-<a href="https://github.com/arham-apon/Mini-Stock-Exchange"><img src="https://img.shields.io/badge/Source%20Code-24283b?style=flat-square&logo=github&logoColor=bb9af7"/></a>
+<a href="https://github.com/arham-apon/Mini-Stock-Exchange-Platform"><img src="https://img.shields.io/badge/Source%20Code-24283b?style=flat-square&logo=github&logoColor=bb9af7"/></a>
 
 </td>
 </tr>
@@ -208,7 +208,7 @@ I engineer systems where the hard part is invisible: idempotent consumers that r
 - **Custom stickiness metrics** — drop-off score and switching cost.
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-24283b?style=flat-square&logo=vercel&logoColor=7dcfff"/></a>
-<a href="https://github.com/arham-apon/FictiPay-Churn-Prediction"><img src="https://img.shields.io/badge/Source%20Code-24283b?style=flat-square&logo=github&logoColor=bb9af7"/></a>
+<a href="https://github.com/arham-apon/FictiPay-Customer-Churn-Prediction---NSUCEC-Cybernauts-Datathon"><img src="https://img.shields.io/badge/Source%20Code-24283b?style=flat-square&logo=github&logoColor=bb9af7"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -239,12 +239,16 @@ I engineer systems where the hard part is invisible: idempotent consumers that r
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arham-apon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7dcfff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham-apon&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arham-apon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7dcfff&hide=contribs&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham-apon&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&hide=jupyter%20notebook&cache_seconds=1800"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=arham-apon&hide_border=true&background=1A1B26&ring=7DCFFF&fire=BB9AF7&currStreakNum=C0CAF5&sideNums=7AA2F7&currStreakLabel=7DCFFF&sideLabels=7AA2F7&dates=565F89&stroke=24283B"/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arham-apon&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=arham-apon&hide_border=true&background=1A1B26&ring=7DCFFF&fire=BB9AF7&currStreakNum=C0CAF5&sideNums=7AA2F7&currStreakLabel=7DCFFF&sideLabels=7AA2F7&dates=565F89&stroke=24283B&cache_seconds=1800"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-apon&theme=tokyonight"/>
 
 </div>
 
