@@ -239,16 +239,47 @@ I engineer systems where the hard part is invisible: idempotent consumers that r
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arham-apon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7dcfff&hide=contribs&cache_seconds=1800"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham-apon&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&hide=jupyter%20notebook&cache_seconds=1800"/>
+<a href="https://github.com/arham-apon">
+  <img src="https://img.shields.io/badge/Total%20Contributions-577-1a1b26?style=for-the-badge&labelColor=24283b&color=7aa2f7&logo=github&logoColor=7aa2f7"/>
+</a>
+<img src="https://img.shields.io/badge/All--Time%20Commits-508+-1a1b26?style=for-the-badge&labelColor=24283b&color=7dcfff&logo=git&logoColor=7dcfff"/>
+<img src="https://img.shields.io/badge/Public%20Repositories-31-1a1b26?style=for-the-badge&labelColor=24283b&color=bb9af7&logo=github&logoColor=bb9af7"/>
+<img src="https://img.shields.io/badge/Total%20Stars-3-1a1b26?style=for-the-badge&labelColor=24283b&color=e0af68"/>
 
 <br/><br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=arham-apon&hide_border=true&background=1A1B26&ring=7DCFFF&fire=BB9AF7&currStreakNum=C0CAF5&sideNums=7AA2F7&currStreakLabel=7DCFFF&sideLabels=7AA2F7&dates=565F89&stroke=24283B&cache_seconds=1800"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-apon&theme=tokyonight"/>
+<table align="center">
+  <tr>
+    <td align="center" width="130"><b><code>Year</code></b></td>
+    <td align="center" width="190"><b><code>Contributions</code></b></td>
+    <td align="left" width="300"><b><code>Focus & Milestones</code></b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2026</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Contributions-220-1a1b26?style=flat-square&labelColor=24283b&color=7aa2f7"/></td>
+    <td align="left"><sub>Distributed Systems · FaultScope · Microservices</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2025</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Contributions-239-1a1b26?style=flat-square&labelColor=24283b&color=7dcfff"/></td>
+    <td align="left"><sub>Applied AI · ML Pipelines · RAG Systems</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Contributions-114-1a1b26?style=flat-square&labelColor=24283b&color=bb9af7"/></td>
+    <td align="left"><sub>Full-Stack Engineering · CampusConnect · Core Systems</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2023</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Contributions-4-1a1b26?style=flat-square&labelColor=24283b&color=565f89"/></td>
+    <td align="left"><sub>GitHub Onboarding</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b><code>All-Time</code></b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Total-577-1a1b26?style=flat-square&labelColor=24283b&color=7aa2f7"/></td>
+    <td align="left"><b><sub>508+ Commits · 31 Repositories · 4 Active Years</sub></b></td>
+  </tr>
+</table>
 
 </div>
 
